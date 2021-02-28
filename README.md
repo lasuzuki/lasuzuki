@@ -27,17 +27,25 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
 ![java](https://img.shields.io/badge/Java-★★☆-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
+![php](https://img.shields.io/badge/php-★☆☆-lightgrey?labelColor=FCA121&logo=PHP&style=for-the-badge&logoColor=white)
 
-## Technologies
+## Technologies and Tools
 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=2bbc8a)
 ![Android](https://img.shields.io/badge/-Android-informational?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-232F3E?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-UI)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
 ![MySQL](https://img.shields.io/badge/-MySQL-White?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -48,7 +56,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+<a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 
 ## More about me
 
