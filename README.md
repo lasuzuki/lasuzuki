@@ -8,7 +8,8 @@
 
 <p>I am a passionate computer scientist, inventor, author, entrepreneur and engineer. I am also an open source enthusiast and advocate. Find more about me and feel free to connect with me here:</p>
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens/)[![Linkedin Badge](https://img.shields.io/badge/-larissasuzuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissasuzuki/)](https://www.linkedin.com/in/larissasuzuki/)
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens/)
+[![Linkedin Badge](https://img.shields.io/badge/-larissasuzuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissasuzuki/)](https://www.linkedin.com/in/larissasuzuki/)
 [![Instagram Badge](https://img.shields.io/badge/-lara_suzuki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lara_suzuki/)](https://instagram.com/lara_suzuki)
 [![Twitter Badge](https://img.shields.io/badge/-lara_suzuki-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/larasuzuki/)](https://twitter.com/larasuzuki)
 [![TED Badge](https://img.shields.io/badge/-larissa_suzuki-red?style=flat-square&logo=ted&logoColor=white&link=https://www.youtube.com/watch?v=Kqkoghq0G4A)](https://www.youtube.com/watch?v=Kqkoghq0G4A)
