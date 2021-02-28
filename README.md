@@ -14,6 +14,8 @@
 [![TED Badge](https://img.shields.io/badge/-larissa_suzuki-red?style=flat-square&logo=ted&logoColor=white&link=https://www.youtube.com/watch?v=Kqkoghq0G4A)](https://www.youtube.com/watch?v=Kqkoghq0G4A)
 [![Website](https://img.shields.io/badge/Website-larissasuzuki.com-informational?style=flat-square&logo=jekyll&logoColor=white)](http://www.larissasuzuki.com)
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/lasuzuki)
+ <a href="https://www.researchgate.net/profile/Larissa-Romualdo-Suzuki" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+ <a href="https://orcid.org/0000-0002-9950-756X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 ![Profile views](https://gpvc.arturio.dev/lasuzuki)
 
 ## Technologies
