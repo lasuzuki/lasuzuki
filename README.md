@@ -1,5 +1,7 @@
 <h2> Hi, I'm Lara Suzuki! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img src="https://pbs.twimg.com/profile_banners/424534094/1603050169/1500x500">
+
 <p>Welcome to my page! </br> I'm Lara, Head of Data/AI Practice at <img src="https://www.flaticon.com/svg/vstatic/svg/281/281764.svg?token=exp=1614512860~hmac=f2b18e5e9a9f6807dc6932b0f91e14f1" width="13"/>oogle, and a Hon Associate Professor at University College London.</p> 
 
 <p>I am a citizen of <img src="https://www.flaticon.com/svg/vstatic/svg/197/197386.svg?token=exp=1614510711~hmac=098a3246ef42a4e338501cf46100d162" width="13"/> <img src="https://www.flaticon.com/svg/vstatic/svg/197/197374.svg?token=exp=1614510766~hmac=e208f9b6f6e0e10d7fc6c71f3249ae95" width="13"/> <img src="https://www.flaticon.com/svg/vstatic/svg/323/323325.svg?token=exp=1614510819~hmac=58cc1cbec8e922c078bb41ab55c67ace" width="13"/> and live in <b>England, UK</b>. </p>
