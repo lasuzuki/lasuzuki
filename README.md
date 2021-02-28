@@ -18,15 +18,23 @@
  <a href="https://orcid.org/0000-0002-9950-756X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 ![Profile views](https://gpvc.arturio.dev/lasuzuki)
 
+## Skills
+
+![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
+![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
+![c](https://img.shields.io/badge/C-★★☆-lightgrey?labelColor=C51A4A&logo=C&style=for-the-badge&logoColor=white)
+![html5](https://img.shields.io/badge/Html5-★★☆-lightgrey?labelColor=2bbc8a&logo=Html5&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
+![java](https://img.shields.io/badge/Java-★★☆-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
+
 ## Technologies
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=2bbc8a)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-232F3E?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-005571?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![MySQL](https://img.shields.io/badge/-MySQL-White?style=flat-square&logo=mysql)
@@ -37,7 +45,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
