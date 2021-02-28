@@ -32,6 +32,7 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=2bbc8a)
+![Android](https://img.shields.io/badge/-Android-informational?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-232F3E?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=flat-square&logoColor=white)
