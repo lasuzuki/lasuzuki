@@ -13,6 +13,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-lara_suzuki-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/larasuzuki/)](https://twitter.com/larasuzuki)
 [![TED Badge](https://img.shields.io/badge/-larissa_suzuki-red?style=flat-square&logo=ted&logoColor=white&link=https://www.youtube.com/watch?v=Kqkoghq0G4A)](https://www.youtube.com/watch?v=Kqkoghq0G4A)
 [![Website](https://img.shields.io/badge/Website-larissasuzuki.com-informational?style=flat-square&logo=jekyll&logoColor=white)](http://www.larissasuzuki.com)
+[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
 ![Profile views](https://gpvc.arturio.dev/lasuzuki)
 
 ## Technologies
