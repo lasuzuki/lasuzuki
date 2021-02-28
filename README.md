@@ -45,7 +45,7 @@
 ## More about me
 
 - 🔭 I’m currently working on the Interplanetary Internet
-- 🌱 I’m currently learning about networks and the Bundle Protocol
+- 🌱 I’m currently learning about Disruptive/Delay Tolerant Networking and the Bundle Protocol
 - 👯 I’m looking to collaborate on open source projects involving the use of Raspberry Pi, Arduino
 - 💬 Ask me about Machine Learning, AI, PubSub, Python
 - 📫 How to reach me: on twitter: @LaraSuzuki
