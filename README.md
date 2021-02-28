@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-larissasuzuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissasuzuki/)](https://www.linkedin.com/in/larissasuzuki/)
 [![Instagram Badge](https://img.shields.io/badge/-lara_suzuki-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lara_suzuki/)](https://instagram.com/lara_suzuki)
 [![Twitter Badge](https://img.shields.io/badge/-lara_suzuki-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/larasuzuki/)](https://twitter.com/larasuzuki)
-
+![Profile views](https://gpvc.arturio.dev/lasuzuki)
 
 ## Technologies
 
