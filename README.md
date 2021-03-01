@@ -40,6 +40,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-232F3E?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Prometheus](https://img.shields.io/badge/-Prometheus-007ACC?style=flat-square&logo=Prometheus)
+![kubeflow](https://img.shields.io/badge/-kubeflow-007ACC?style=flat-square&logo=kubeflow)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=flat-square&logoColor=white)
