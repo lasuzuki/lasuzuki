@@ -20,7 +20,15 @@
  <a href="https://orcid.org/0000-0002-9950-756X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 ![Profile views](https://gpvc.arturio.dev/lasuzuki)
 
-## Skills
+## AI & ML
+
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
+## Programming Languages
 
 ![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)
