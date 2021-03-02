@@ -2,9 +2,9 @@
 
 <img src="https://pbs.twimg.com/profile_banners/424534094/1603050169/1500x500">
 
-<p>Welcome to my page! </br> I'm Lara, Head of Data/AI Practice at **Google**, and a Hon Associate Professor at University College London.</p> 
+<p>Welcome to my page! </br> I'm Lara, Head of Data/AI Practice at Google, and a Hon Associate Professor at University College London.</p> 
 
-<p>I am a citizen of **Brazil/Italy/UK** and live in <b>England, UK</b>. </p> 
+<p>I am a citizen of Brazil/Italy/UK and live in <b>England, UK</b>. </p> 
 
 <p>I am a passionate computer scientist, inventor, author, entrepreneur and engineer. I am also an open source enthusiast and advocate. Find more about me and feel free to connect with me here:</p>
 
