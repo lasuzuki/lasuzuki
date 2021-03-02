@@ -15,6 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-lara_suzuki-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/larasuzuki/)](https://twitter.com/larasuzuki)
 [![TED Badge](https://img.shields.io/badge/-larissa_suzuki-red?style=flat-square&logo=ted&logoColor=white&link=https://www.youtube.com/watch?v=Kqkoghq0G4A)](https://www.youtube.com/watch?v=Kqkoghq0G4A)
 [![Website](https://img.shields.io/badge/Website-larissasuzuki.com-informational?style=flat-square&logo=jekyll&logoColor=white)](http://www.larissasuzuki.com)
+[![Blogger](https://img.shields.io/badge/-smartcityresearch-FCA121?style=flat-square&logo=blogger&logoColor=white)](http://www.smartcityresearch.com)
 [![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/lasuzuki)
  <a href="https://www.researchgate.net/profile/Larissa-Romualdo-Suzuki" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
  <a href="https://orcid.org/0000-0002-9950-756X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
@@ -22,7 +23,7 @@
 
 ## AI & ML
 
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> 
 
 ## Programming Languages
 
@@ -33,7 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
 ![java](https://img.shields.io/badge/Java-★★☆-lightgrey?labelColor=C51A4A&logo=Java&style=for-the-badge&logoColor=white)
-![php](https://img.shields.io/badge/php-★☆☆-lightgrey?labelColor=FCA121&logo=PHP&style=for-the-badge&logoColor=white)
 
 ## Technologies and Tools
 
@@ -41,7 +41,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=2bbc8a)
 ![Android](https://img.shields.io/badge/-Android-informational?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-232F3E?style=flat-square&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-007ACC?style=flat-square&logo=Prometheus)
@@ -66,8 +65,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
 <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    <img alt="MATLAB" src="https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+ <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
 
 ## More about me
 
